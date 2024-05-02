@@ -11,3 +11,10 @@ EXERCICIO 1. Escriba un programa que lea un número enteiro e escriba cunha mens
 using namespace std;
 
 int main() 
+```
+
+?[Cántos tipos de bucles hai en programación?]
+-[ ] 0, Non hai bucles en programación!
+-[ ] 4!
+-[x] 3!
+-[ ] Infinitos!
