@@ -14,6 +14,11 @@ using namespace std;
 int main() 
 ```
 
+
+
+
+
+
 ?[EXERCICIO 2. Cántos tipos de bucles hai en programación?]
 -[ ] 0, Non hai bucles en programación!
 -[ ] 4!
